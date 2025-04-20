@@ -18,9 +18,8 @@
     box-shadow: 0 0 15px #006A71;
 }
 .addbutton{
-    height: 40px;
+    height: 40.8px;
     background-color: #48A6A7;
-    border-radius: 5px;
     color: white;
     cursor: pointer;
     font-size: 20px;
@@ -31,6 +30,13 @@
     background-color: #3A8B8C;
 }
 .addbutton:active{
-    transition: 0.5s;
-    transform: scale(0.95);
+    transition: 0.2s ease-in-out;
+    transform: scale(0.98);
+}
+.todolist{
+    position: relative;
+    top:-30px
+}
+.entries{
+    background-color: #71abad;
 }

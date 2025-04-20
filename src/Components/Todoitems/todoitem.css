@@ -1,0 +1,44 @@
+
+.todoitem{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    background-color: ;
+}
+.deletebutton{
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: auto;
+}
+.deletebutton:active{
+    transition: 0.1s ease-in-out;
+    transform: scale(0.8);
+}
+.deletebutton:hover{
+    box-shadow: 0px 0px 5px #006A71;
+    border-radius: 5px;
+}
+.checkboxbutton:hover{
+    box-shadow: 0px 0px 5px #006A71;
+    border-radius: 1rem;
+}
+.checkboxbutton:active{
+    transition: 0.1s ease-in-out;
+    transform: scale(0.8);
+}
+/* class for the tick */
+.toggleclass{
+    background: url('/src/assets/tick.png') no-repeat center;
+    background-size: 25px 25px;
+}
+.toggleclass:hover{
+    background: url('/src/assets/tick.png') no-repeat center;
+    background-size: 25px 25px;
+    box-shadow: 0px 0px 5px #006A71;
+    border-radius: 1rem;
+}
+.toggleclass:active{
+    transition: 0.1s ease-in-out;
+    transform: scale(0.8);
+}
