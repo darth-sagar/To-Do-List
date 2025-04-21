@@ -12,7 +12,6 @@ const Todoitem = ({task}) => {
         <div className="todoitem p-2">
             <button onClick={(event)=>{
                 event.target.classList.toggle('toggleclass')}} className='checkboxbutton '>
-
                 <img src={checkbox} alt="" className='w-8' />
             </button>
             <p className='text-xl px-1 pb-1 font-medium'>{task}</p>

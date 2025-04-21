@@ -3,7 +3,7 @@
     display: flex;
     align-items: center;
     border-bottom: 1px solid #ccc;
-    background-color: ;
+    background-color: #71abad;
 }
 .deletebutton{
     border: none;
@@ -41,4 +41,9 @@
 .toggleclass:active{
     transition: 0.1s ease-in-out;
     transform: scale(0.8);
+}
+.hoverbuttons{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    
 }
