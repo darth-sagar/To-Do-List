@@ -21,6 +21,8 @@ This project features all the basic functionalities you expect from a task manag
 - CSS3
 - JavaScript (ES6)
 
+---
+
 ## Screenshots 📸
 
 
