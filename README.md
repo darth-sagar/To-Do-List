@@ -25,9 +25,9 @@ This project features all the basic functionalities you expect from a task manag
 
 ## Screenshots 📸
 
-![](./public/screenshots/scr-1.jpg)
-![](./public/screenshots/scr-3.jpg)
-![](./public/screenshots/scr-2.jpg)
+![](https://raw.githubusercontent.com/darth-sagar/To-Do-List/main/public/screenshots/scr-1.jpg)
+![](https://raw.githubusercontent.com/darth-sagar/To-Do-List/main/public/screenshots/scr-3.jpg)
+![](https://raw.githubusercontent.com/darth-sagar/To-Do-List/main/public/screenshots/scr-2.jpg)
 
 
 ## 🚀 Getting Started
@@ -42,3 +42,4 @@ This project features all the basic functionalities you expect from a task manag
    ```bash
    git clone https://github.com/darth-sagar/todo-list-react.git
    cd todo-list-react
+
