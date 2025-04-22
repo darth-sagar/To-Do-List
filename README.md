@@ -1,4 +1,4 @@
-# To-Do List App
+# 📝To-Do List App | React
 
 A simple yet powerful **To-Do List** built with **React**.  
 This project features all the basic functionalities you expect from a task manager, wrapped inside a fully **responsive** and clean UI.
