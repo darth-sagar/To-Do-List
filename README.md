@@ -30,5 +30,5 @@ This project features all the basic functionalities you expect from a task manag
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/todo-list-react.git
+   git clone https://github.com/darth-sagar/todo-list-react.git
    cd todo-list-react
