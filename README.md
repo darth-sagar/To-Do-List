@@ -30,6 +30,7 @@ This project features all the basic functionalities you expect from a task manag
 ![](/public/screenshots/scr-3.jpg)
 ![](/public/screenshots/scr-2.jpg)
 
+---
 
 ## 🚀 Getting Started
 
