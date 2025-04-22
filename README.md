@@ -23,13 +23,13 @@ This project features all the basic functionalities you expect from a task manag
 
 ## Screenshots 📸
 
-### Gameplay View
-![Gameplay](/public/screenshots/tictactoe_scr_2.jpg)
-![Gameplay](/public/screenshots/tictactoe_scr_1.jpg)
 
-### Responsive View (Mobile/Tablet)
-![Responsive View](/public/screenshots/tictactoe_scr_3.jpg)
-![Responsive View](/public/screenshots/tictactoe_scr_4.jpg)
+![Gameplay](/public/screenshots/scr-1.jpg)
+![Gameplay](/public/screenshots/scr-3.jpg)
+
+
+![Responsive View](/public/screenshots/scr-2.jpg)
+
 
 ## 🚀 Getting Started
 
