@@ -42,5 +42,3 @@ This project features all the basic functionalities you expect from a task manag
    git clone https://github.com/darth-sagar/todo-list-react.git
    cd todo-list-react
 
-## Screenshots 📸
-
